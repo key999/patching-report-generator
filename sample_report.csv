@@ -1,0 +1,11 @@
+Hostname,Status,Explanation,Action,Start,Finish
+s0001,PATCHED,Patching successful,None required,01/01/2022 20:00,01/01/2022 20:17:34
+s0005,PATCHED,Patching successful,None required,01/01/2022 20:00,01/01/2022 20:16:51
+s0074,SKIPPED,,,01/01/2022 20:00,
+s0075,PATCHED,Patching successful,None required,01/01/2022 20:00,01/01/2022 20:18:01
+s0076,PATCHED,Patching successful,None required,01/01/2022 20:00,01/01/2022 20:16:11
+s0101,REMOVED,,,01/01/2022 20:00,
+s0102,NOPATCHNEEDED,,,01/01/2022 20:00,
+s0111,PATCHED,Patching successful,None required,01/01/2022 20:00,01/01/2022 20:22:37
+s0170,PATCHED,Patching successful,None required,01/01/2022 20:00,01/01/2022 20:24:48
+s0245,SERVERNOTFOUND,,,01/01/2022 20:00,
